@@ -94,7 +94,8 @@ This project simulates a basic hospital management system where users can manage
 
 ---
 
-## Learning Outcomes
+## Learning Outcomes (outcomes)
+
 
 This project helped me improve my understanding of:
 
